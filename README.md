@@ -1,1 +1,8 @@
-# SQL-Project-Social-Network-
+# Social Network
+
+## Tabels:
+### Nutzer
+### Freund
+### Beitrag
+### Komment
+### Mitteilung
